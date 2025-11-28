@@ -3,7 +3,7 @@ Stanford_Cars_dataset-main/
 
 # Ignore your own data folder
 data3a/
-
+detection_model/
 
 # Ignore compiled Python cache
 __pycache__/
