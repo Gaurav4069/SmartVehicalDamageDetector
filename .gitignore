@@ -4,8 +4,6 @@ Stanford_Cars_dataset-main/
 # Ignore your own data folder
 data3a/
 
-# Ignore model checkpoints
-model/
 
 # Ignore compiled Python cache
 __pycache__/
