@@ -1,0 +1,16 @@
+# Ignore Stanford Cars dataset
+Stanford_Cars_dataset-main/
+
+# Ignore your own data folder
+data3a/
+
+# Ignore model checkpoints
+model/
+
+# Ignore compiled Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment (if any)
+venv/
+env/
