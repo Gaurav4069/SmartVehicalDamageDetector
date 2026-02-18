@@ -1,14 +1,32 @@
-# Ignore Stanford Cars dataset
-Stanford_Cars_dataset-main/
-
-# Ignore your own data folder
-data3a/
-detection_model/
-
-# Ignore compiled Python cache
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# Ignore virtual environment (if any)
+# Virtual environment
 venv/
 env/
+
+# Environment variables
+.env
+
+# Datasets (VERY LARGE)
+data3/
+data3a/
+Stanford_Cars_dataset-main/
+
+# Trained models (VERY LARGE)
+model/model/
+*.h5
+*.pt
+*.pth
+
+# Uploads & outputs
+static/uploads/
+static/output.jpg
+output.jpg
+
+# OS files
+.DS_Store
+Thumbs.db
